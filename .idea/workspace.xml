@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c83425a-d1bd-4c79-8fa0-0cb48b474a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GB_Course3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/task4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/task5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/task2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/task3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lPffGZYoILeM5ikFG2agSyVtN8" />
@@ -26,8 +35,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,22 +55,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607503748598</updated>
-      <workItem from="1607503749709" duration="2116000" />
+      <workItem from="1607503749709" duration="6084000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1607505921775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607505921775</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ДЗ к уроку №1&#10;&#10;Каждый файл - отдельный пункт ДЗ">
+      <created>1607505978784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607505978784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="ДЗ к уроку №1&#10;&#10;Каждый файл - отдельный пункт ДЗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ к уроку №1&#10;&#10;Каждый файл - отдельный пункт ДЗ" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="25" key="CommitChangelistDialog2" timestamp="1607505675498">
+    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2" timestamp="1607505978583">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="311" y="25" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1607505675498" />
+    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1607505978583" />
     <state x="497" y="139" key="RollbackChangesDialog" timestamp="1607505906785">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
     <state x="497" y="139" key="RollbackChangesDialog/0.25.1440.816@0.25.1440.816" timestamp="1607505906785" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1607505988473">
+      <screen x="0" y="25" width="1440" height="816" />
+    </state>
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1607505988473" />
     <state x="486" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607505730464">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
