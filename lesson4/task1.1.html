@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task 1.1</title>
+</head>
+<body>
+
+<script>
+    'use strict';
+
+    //ES 5
+    const ProductES5 = function (name, price) {
+      this.name = name;
+      this.price = price;
+    }
+    ProductES5.prototype.make25PercentDiscount = function () {
+      this.price = this.price - (this.price * 0.25);
+    };
+
+
+    const realProduct = new ProductES5('Пылесос (скидка 25%)', 999);
+    realProduct.make25PercentDiscount();
+
+    console.log(realProduct);
+
+    //ES6
+
+    class ProductES6 {
+      constructor(name, price) {
+        this.name = name;
+        this.price = price;
+      }
+
+      make25PercentDiscount = function () {
+        this.price = this.price - (this.price * 0.25);
+      };
+    }
+
+    const realProduct2 = new ProductES6('Пылесос (скидка 25%)', 999);
+    realProduct2.make25PercentDiscount();
+
+    console.log(realProduct2);
+</script>
+</body>
+</html>
