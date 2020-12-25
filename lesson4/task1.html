@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Task 1</title>
+</head>
+<body>
+
+<script>
+  "use strict";
+    const getRandom = (min, max) => {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min; //Максимум и минимум включаются
+  } //Доп. функция получения рандомного числа
+
+    const numToObject = (number) => {
+      if (Number.isInteger(number) && number >= 0 && number <= 999) {
+        let numberToString = number.toString();
+        return {
+          units: +numberToString[numberToString.length - 1], //это единицы
+          tens: numberToString[numberToString.length - 2] ? +numberToString[numberToString.length - 1] : 0, //это десятки
+          hundreds: numberToString[numberToString.length - 3] ? +numberToString[numberToString.length - 2] : 0, //это сотни
+        }
+      } else {
+        console.log('Введено невалидное число!');
+        return {};
+      }
+    }
+    console.log(numToObject(getRandom(0, 999)));
+    document.write(JSON.stringify(numToObject(getRandom(0, 999))));
+</script>
+</body>
+</html>

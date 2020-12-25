@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task 1.2</title>
+</head>
+<body>
+
+<script>
+    'use strict';
+
+    //ES 5
+    const PostES5 = function (author, text, date) {
+      this.author = author;
+      this.text = text;
+      this.date = date;
+    }
+    PostES5.prototype.edit = function (text) {
+      this.text = text;
+    };
+
+    const AttachedPostES5 = function(author, text, date) {
+      PostES5.call(this, author, text, date);
+      this.highlighted = false;
+    }
+    AttachedPostES5.prototype = Object.create(PostES5.prototype);
+    AttachedPostES5.prototype.constructor = AttachedPostES5;
+
+    AttachedPostES5.prototype.makeTextHighlighted = function (highlighted) {
+      this.highlighted = true;
+    };
+
+
+    const realPostES5 = new PostES5('Стрелов Игорь', 'Начальный текст',new Date());
+    realPostES5.edit('Новый текст');
+
+    console.log('PostES5', realPostES5);
+
+    const realAttachedPostES5 = new AttachedPostES5('Стрелов Игорь', 'Начальный текст',new Date());
+    realAttachedPostES5.edit('Новый текст');
+    realAttachedPostES5.makeTextHighlighted();
+
+    console.log('AttachedPostES5', realAttachedPostES5);
+
+
+
+
+    //ES6
+
+    class PostES6 {
+      constructor(author, text, date) {
+        this.author = author;
+        this.text = text;
+        this.date = date;
+      }
+
+      edit = function (text) {
+        this.text = text;
+      };
+
+    }
+
+    const realPostES6 = new PostES6('Стрелов Игорь', 'Начальный текст',new Date());
+    realPostES6.edit('Новый текст');
+
+    console.log('PostES6', realPostES6);
+
+
+    class AttachedPostES6 extends PostES6 {
+      constructor(author, text, date) {
+        super(author, text, date);
+        this.highlighted = false;
+      }
+
+      makeTextHighlighted = function (highlighted) {
+        this.highlighted = true;
+      };
+    }
+
+    const realAttachedPostES6 = new AttachedPostES6('Стрелов Игорь', 'Начальный текст',new Date());
+    realAttachedPostES6.edit('Новый текст');
+    realAttachedPostES6.makeTextHighlighted();
+
+    console.log('AttachedPostES6', realAttachedPostES6);
+</script>
+</body>
+</html>
