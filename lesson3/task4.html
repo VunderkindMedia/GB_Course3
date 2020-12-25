@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Task 4</title>
+</head>
+<body>
+
+<script>
+
+  const products = [
+    {
+      id: 3,
+      price: 127,
+      photos: [
+        "1.jpg",
+        "2.jpg",
+      ]
+    },
+    {
+      id: 5,
+      price: 499,
+      photos: []
+    },
+    {
+      id: 10,
+      price: 26,
+      photos: [
+        "3.jpg"
+      ]
+    },
+    {
+      id: 8,
+      price: 78,
+    },
+  ];
+
+  //Создаем новый массив с элементами старого, при условии что у элемента есть фотографии
+  const newProducts = products.filter(k => 'photos' in k && k.photos.length > 0);
+
+  //Сортируем по возрастанию цены
+  newProducts.sort((a, b) => a.price - b.price);
+
+  console.log(newProducts);
+
+</script>
+</body>
+</html>
