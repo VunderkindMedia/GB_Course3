@@ -2,41 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c83425a-d1bd-4c79-8fa0-0cb48b474a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/1 поиск элементов на странице/1-поиск_по_id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/1 поиск элементов на странице/2-поиск_по_имени_класса.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/1 поиск элементов на странице/3-поиск_всех_элементов_по_селектору.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/1 поиск элементов на странице/4-поиск_одного_элемента_по_селектору.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/1 поиск элементов на странице/5-название_вкладки.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/2 класс node/1-получение_родительского_узла.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/2 класс node/2-добавление_элемента_с_appendChild.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/2 класс node/3-удаление_узлов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/2 класс node/4-замена_текста_в_элементе.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/1-добавление_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/2-toggle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/3-удаление_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/4-удобная_вставка.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/5-получение_атрибута.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/6-создание_атрибута.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/3 работа с атрибутами/7-замена_id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/4 обработка событий/1-событие_загрузки.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/4 обработка событий/2-событие_загрузки.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/4 обработка событий/3-событие_мыши.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 1 уровня/4 обработка событий/4-событие_мыши.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/1-вывод_картинок_в_консоль.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/2-вывод_имени_тега.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/3-вывод_имени_класса.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/4-вывод_всех_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/5-проверка_наличия_класса.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/6-удаление_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/7-добавление_текста.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/8-добавление_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/1 получение элементов и свойств/9-переключение_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/2 обработка события/1-получение_свойств.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/2 обработка события/2-получение_всех_классов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/2 обработка события/3-получение_произвольных_атрибутов.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/2 обработка события/4-изменение_разметки.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/2 обработка события/5-всплытие_события.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/задания 2 уровня/3 стили/1-inline_стили.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/1-замена_картинок/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/1-замена_картинок/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/1-замена_картинок/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/2-стили.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/3-карточки_товаров/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/3-карточки_товаров/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/3-карточки_товаров/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/4-отложенный_вызов.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/5-добавить_отступы.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 1 уровня/6-добавить_переносы.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 2 уровня/1-получение_значений_из_input/inputs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 2 уровня/2-анимация/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 2 уровня/2-анимация/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 2 уровня/3-рейтинг/rating.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/1-удаление_блока_по_клику/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/2-добавление_в_корзину/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/2-добавление_в_корзину/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/2-добавление_в_корзину/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/2-добавление_в_корзину/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/2-добавление_в_корзину/toCart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/3-валидация_формы/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/4-кнопка_наверх/goToTop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/4-кнопка_наверх/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/задания 3 уровня/5-имитация_загрузки_картинок/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +48,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson4" />
+        <entry key="$PROJECT_DIR$" value="lesson5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,12 +64,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson6" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson6" />
       <recent name="$PROJECT_DIR$/lesson5" />
       <recent name="$PROJECT_DIR$/lesson4" />
       <recent name="$PROJECT_DIR$/lesson2" />
@@ -95,7 +90,7 @@
       <workItem from="1607503749709" duration="10454000" />
       <workItem from="1608067320247" duration="1519000" />
       <workItem from="1608352821137" duration="4819000" />
-      <workItem from="1608889011214" duration="6596000" />
+      <workItem from="1608889011214" duration="13377000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1607505921775</created>
@@ -132,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608357988974</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ДЗ к уроку №5">
+      <created>1608895667442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608895667442</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,21 +146,22 @@
     <MESSAGE value="ДЗ к уроку №2&#10;&#10;Папка Lesson2. Каждый файл - отдельный пункт ДЗ" />
     <MESSAGE value="ДЗ к уроку №3&#10;&#10;Папка Lesson3. Каждый файл - отдельный пункт ДЗ" />
     <MESSAGE value="ДЗ к уроку №4&#10;&#10;Папка Lesson4. Каждый файл - отдельный пункт ДЗ&#10;&#10;В заданиях 1.1 и 1.2 отделил реализации ES5 и ES6 с помощью соответствующих комментариев" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ к уроку №4&#10;&#10;Папка Lesson4. Каждый файл - отдельный пункт ДЗ&#10;&#10;В заданиях 1.1 и 1.2 отделил реализации ES5 и ES6 с помощью соответствующих комментариев" />
+    <MESSAGE value="ДЗ к уроку №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ к уроку №5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2" timestamp="1608357988780">
+    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2" timestamp="1608895667152">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1608357988780" />
+    <state x="311" y="25" width="817" height="816" key="CommitChangelistDialog2/0.25.1440.816@0.25.1440.816" timestamp="1608895667152" />
     <state x="497" y="139" key="RollbackChangesDialog" timestamp="1607505906785">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
     <state x="497" y="139" key="RollbackChangesDialog/0.25.1440.816@0.25.1440.816" timestamp="1607505906785" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1608358022611">
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1608895688259">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1608358022611" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1608895688259" />
     <state x="486" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607505730464">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
